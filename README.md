@@ -235,15 +235,12 @@ DSA, Problem Solving** - 📫 How to reach me **mizanurrahmanhridu@gmail.com**
 
 <p>
   &nbsp;<img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=developerhridu&show_icons=true&locale=en"
     alt="developerhridu"
   />
-</p>
-
-<p>
   <img
-    align="center"
+    align="right"
     src="https://github-readme-streak-stats.herokuapp.com/?user=developerhridu&"
     alt="developerhridu"
   />
