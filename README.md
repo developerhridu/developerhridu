@@ -226,7 +226,7 @@ DSA, Problem Solving** - 📫 How to reach me **mizanurrahmanhridu@gmail.com**
 </p>
 
 <p>
-  &nbsp;<img
+  <img
     align="centre"
     src="https://github-readme-stats.vercel.app/api?username=developerhridu&show_icons=true&locale=en"
     alt="developerhridu"
