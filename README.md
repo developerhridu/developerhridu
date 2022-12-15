@@ -226,19 +226,20 @@ DSA, Problem Solving** - 📫 How to reach me **mizanurrahmanhridu@gmail.com**
 </p>
 
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=developerhridu&show_icons=true&locale=en&layout=compact"
+  &nbsp;<img
+    align="centre"
+    src="https://github-readme-stats.vercel.app/api?username=developerhridu&show_icons=true&locale=en"
     alt="developerhridu"
   />
 </p>
 
 <p>
-  &nbsp;<img
+  <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=developerhridu&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=developerhridu&show_icons=true&locale=en&layout=compact"
     alt="developerhridu"
   />
+
   <img
     align="right"
     src="https://github-readme-streak-stats.herokuapp.com/?user=developerhridu&"
