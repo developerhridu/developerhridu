@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mizanur Rahman Hridu (DeveloperHridu)</h1>
 <h3 align="center">
-  A Fresh Graduate (BSc (Eng.) in ECE from HSTU, Bangladesh. I Am Working As
+  A Fresh Graduate (BSc (Eng.) in ECE) from HSTU, Bangladesh. I Am Working As
   MERN Stack Developer For 2 Years.
 </h3>
 <img
