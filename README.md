@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mizanur Rahman Hridu (DeveloperHridu)</h1>
+<h1 align="center">Hi 👋, I'm Mizanur Rahman Hridu</h1>
 <h3 align="center">
   A Fresh Graduate (BSc (Eng.) in ECE from HSTU, Bangladesh. I Am Working As
   MERN Stack Developer For 2 Years.
@@ -227,7 +227,15 @@ DSA, Problem Solving** - 📫 How to reach me **mizanurrahmanhridu@gmail.com**
 
 <p>
   <img
-    align="centre"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=developerhridu&show_icons=true&locale=en&layout=compact"
+    alt="developerhridu"
+  />
+</p>
+
+<p>
+  &nbsp;<img
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=developerhridu&show_icons=true&locale=en"
     alt="developerhridu"
   />
@@ -235,13 +243,7 @@ DSA, Problem Solving** - 📫 How to reach me **mizanurrahmanhridu@gmail.com**
 
 <p>
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=developerhridu&show_icons=true&locale=en&layout=compact"
-    alt="developerhridu"
-  />
-
-  <img
-    align="right"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=developerhridu&"
     alt="developerhridu"
   />
