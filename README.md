@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mizanur Rahman Hridu</h1>
 <h3 align="center">
-  A Fresh Graduate (BSc (Eng.) in ECE from HSTU, Bangladesh. I Am Working As
-  MERN Stack Developer For 2 Years.
+  A Fresh Graduate (BSc (Eng.) in ECE) from HSTU, Bangladesh. I Am Working As
+   Front-End Developer For 2 Years Having Intermediate Knowledge of Back-End Development.
 </h3>
 <!-- <img
   align="right"
@@ -25,9 +25,9 @@
 </p>
 
 - 🔭 I’m currently working on **Ecommerce Project** - 🌱 I’m currently learning
-**Reat.js** - 👨‍💻 All of my projects are available at
-[http://mrhridu.com](http://mrhridu.com) - 💬 Ask me about **react, MERN, C++,
-DSA, Problem Solving** - 📫 How to reach me **mizanurrahmanhridu@gmail.com**
+  **Advance Reat.js** - 👨‍💻 All of my projects are available at
+  [developerhridu…](developerhridu…) - 💬 Ask me about **react, MERN, C++,
+  DSA, Problem Solving** - 📫 How to reach me **mizanurrahmanhridu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
