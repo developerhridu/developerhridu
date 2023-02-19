@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Project** - 🌱 I’m currently learning
   **Advance Reat.js** - 👨‍💻 All of my projects are available at
-  [developerhridu…](developerhridu…) - 💬 Ask me about **react, MERN, C++,
+  [https://developerhridu.github.io/](https://developerhridu.github.io/) - 💬 Ask me about **react, MERN, C++,
   DSA, Problem Solving** - 📫 How to reach me **mizanurrahmanhridu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
