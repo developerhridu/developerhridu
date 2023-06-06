@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mizanur Rahman Hridu</h1>
 <h3 align="center">
-  A Fresh Graduate (BSc (Eng.) in ECE) from HSTU, Bangladesh. I Am Working As
-   Front-End Developer For 2 Years Having Intermediate Knowledge of Back-End Development.
+  A Fresh Graduate (BSc (Eng.) in ECE) from HSTU, Bangladesh. I Am Working As Full Stack Developer For 2+ years, expertise in JavaScript, React.Js, Express.Js, Node.Js. Standout strengths include simplifying complex topics through 7+ years of teaching experience, exceptional communication skills and proficiency in leadership & a strong team player. Seeking a challenging role in an organization to contribute skills, drive company growth & achieve professional goals.
 </h3>
 <!-- <img
   align="right"
