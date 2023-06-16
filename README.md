@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mizanur Rahman Hridu</h1>
-<h3 align="center">I am a Software Engineer at bdjobs with expertise in JavaScript, React.js, Express.js, and Node.js., GCP, Azure, Cloud Architecture.</h3>
+<h3 align="center">I am a Software Engineer at bdjobs.com Ltd. with expertise in JavaScript, React.js, Express.js, and Node.js., GCP, Azure, Cloud Architecture.</h3>
 <!-- <img
   align="right"
   alt="Coding"
