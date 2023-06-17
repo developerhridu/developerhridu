@@ -28,12 +28,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://join.skype.com/invite/ykZjQDHfPpdN" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_skype-128.png"
-      alt="skype"
-      width="40"
-      height="30"
-    />
+      <img
+        src="[https://www.flaticon.com/svg/vstatic/svg/174/174869.svg]"
+        alt="skype"
+        height="30"
+        width="40"
+  
+/>
   </a>
   <a href="https://twitter.com/developerhridu" target="blank"
     ><img
