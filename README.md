@@ -23,7 +23,7 @@
 
 - 👨‍💻 My Portfolio : [https://developerhridu.github.io/](https://developerhridu.github.io/)
 - 📫 Contact Me: **mizanurrahmanhridu@gmail.com** or [![Skype](https://img.shields.io/badge/-Skype-white?style=flat-square&logo=skype)](https://join.skype.com/invite/ykZjQDHfPpdN)
-- 💬 Ask me about **react, MERN, C++, DSA, Problem Solving, Software Engineering, Cloud Archtecture**
+- 💬 Ask me about **Software Engineering, Cloud Computing, MERN, React.Js, Node.Js , C++, C#, .NET, Python, Django, DSA, Problem Solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
