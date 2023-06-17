@@ -21,9 +21,11 @@
   /></a>
 </p>
 
-👨‍💻 My Portfolio : [https://developerhridu.github.io/](https://developerhridu.github.io/)
+- 👨‍💻 My Portfolio : [https://developerhridu.github.io/](https://developerhridu.github.io/)
 - 💬 Ask me about **react, MERN, C++, DSA, Problem Solving, Software Engineering, Cloud Archtecture**
-- 📫 How to reach me **mizanurrahmanhridu@gmail.com**
+- 📫 Contact Me: **mizanurrahmanhridu@gmail.com**
+
+[![Skype](https://raw.githubusercontent.com/devicons/devicon/master/icons/skype/skype-original.svg)](https://join.skype.com/invite/ykZjQDHfPpdN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
