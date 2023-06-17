@@ -29,10 +29,10 @@
 <p align="left">
     <a href="https://join.skype.com/invite/ykZjQDHfPpdN" target="_blank" rel="noreferrer">
     <img
-      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/skype/skype-plain.svg](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_skype-128.png)"
+      src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_skype-128.png"
       alt="skype"
-      width="30"
-      height="40"
+      width="40"
+      height="30"
     />
   </a>
   <a href="https://twitter.com/developerhridu" target="blank"
