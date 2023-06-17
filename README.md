@@ -21,9 +21,9 @@
   /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at
-  [https://developerhridu.github.io/](https://developerhridu.github.io/) - 💬 Ask me about **react, MERN, C++,
-  DSA, Problem Solving, Software Engineering, Cloud Archtecture** - 📫 How to reach me **mizanurrahmanhridu@gmail.com**
+👨‍💻 My Portfolio : [https://developerhridu.github.io/](https://developerhridu.github.io/)
+💬 Ask me about **react, MERN, C++, DSA, Problem Solving, Software Engineering, Cloud Archtecture**
+📫 How to reach me **mizanurrahmanhridu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
