@@ -29,13 +29,12 @@
 <p align="left">
     <a href="https://join.skype.com/invite/ykZjQDHfPpdN" target="_blank" rel="noreferrer">
       <img
-        src="[https://www.flaticon.com/svg/vstatic/svg/174/174869.svg]"
+        src="https://image.flaticon.com/icons/svg/174/174876.svg"
         alt="skype"
         height="30"
-        width="40"
-  
-/>
-  </a>
+        width="30"
+      />
+    </a>
   <a href="https://twitter.com/developerhridu" target="blank"
     ><img
       align="center"
@@ -68,14 +67,14 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.leetcode.com/mr_hridu" target="blank"
+  <!-- <a href="https://www.leetcode.com/mr_hridu" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="mr_hridu"
       height="30"
       width="40"
-  /></a>
+  /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
