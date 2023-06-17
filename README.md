@@ -22,10 +22,8 @@
 </p>
 
 - 👨‍💻 My Portfolio : [https://developerhridu.github.io/](https://developerhridu.github.io/)
+- 📫 Contact Me: **mizanurrahmanhridu@gmail.com** [![Skype](https://img.shields.io/badge/-Skype-blue?style=flat-square&logo=skype)](https://join.skype.com/invite/ykZjQDHfPpdN)
 - 💬 Ask me about **react, MERN, C++, DSA, Problem Solving, Software Engineering, Cloud Archtecture**
-- 📫 Contact Me: **mizanurrahmanhridu@gmail.com**
-
-[![Skype](https://raw.githubusercontent.com/devicons/devicon/master/icons/skype/skype-original.svg)](https://join.skype.com/invite/ykZjQDHfPpdN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
