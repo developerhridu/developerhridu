@@ -13,7 +13,7 @@
   />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://twitter.com/developerhridu" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/developerhridu?logo=twitter&style=for-the-badge"
