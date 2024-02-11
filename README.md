@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/rjbabul/rjbabul/blob/main/Wave.gif" height="55px" width="55px">, I'm <b style="color:blue;">Mizanur Rahman Hridu</b></h1>
-<h3 align="center">I am a Software Engineer at bdjobs.com Ltd. with expertise in JavaScript, React.js, Express.js, and Node.js., GCP, AWS, Cloud Architecture.</h3>
+<h3 align="center">I am working as a Jr. Software Engineer at bdjobs.com Ltd. with expertise in Angular, React.js & .NET Core.</h3>
 <!-- <!-- <img
   align="right"
   alt="Coding"
