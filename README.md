@@ -23,7 +23,7 @@
 
 - 👨‍💻 My Portfolio : [https://developerhridu.github.io/](https://developerhridu.github.io/)
 - 📫 Contact Me: **mizanurrahmanhridu@gmail.com** or [![Skype](https://img.shields.io/badge/-Skype-white?style=flat-square&logo=skype)](https://join.skype.com/invite/ykZjQDHfPpdN)
-- 💬 Ask me about **Software Engineering, Cloud Computing, MERN, React.Js, Node.Js , C++, C#, .NET, Python, Django, DSA, Problem Solving**
+- 💬 Ask me about **Software Engineering, C#, TypeScript, JavaScript, React.Js, Angular, .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -74,7 +74,15 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-      alt="cplusplus"
+      alt="js"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+      alt="ts"
       width="40"
       height="40"
     />
@@ -95,10 +103,70 @@
       height="40"
     />
   </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" />
-</a>
+</a> -->
 
+<!--   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a> -->
+<!-- <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" />
+</a> -->
+<!--   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+      alt="gcp"
+      width="40"
+      height="40"
+    />
+  </a> -->
+<!--   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a> -->
+<!--   <a href="https://www.postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a> -->
+<!--   <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a> -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -107,69 +175,18 @@
       height="40"
     />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
       alt="sqlserver"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" />
-</a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
       width="40"
       height="40"
     />
