@@ -27,14 +27,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://join.skype.com/invite/ykZjQDHfPpdN" target="_blank" rel="noreferrer">
-      <img
-        src="https://image.flaticon.com/icons/svg/174/174876.svg"
-        alt="skype"
-        height="30"
-        width="30"
-      />
-    </a>
   <a href="https://twitter.com/developerhridu" target="blank"
     ><img
       align="center"
@@ -81,7 +73,7 @@
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
       alt="cplusplus"
       width="40"
       height="40"
