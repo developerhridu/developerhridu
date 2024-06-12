@@ -193,13 +193,13 @@
   </a>
 </p>
 
-<p>
+<!--<p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=developerhridu&show_icons=true&locale=en&layout=compact"
     alt="developerhridu"
   />
-</p>
+</p> -->
 
 <!-- <p>
   &nbsp;<img
@@ -209,10 +209,10 @@
   />
 </p> -->
 
-<p>
+<!-- <p>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=developerhridu&"
     alt="developerhridu"
   />
-</p>
+</p> -->
