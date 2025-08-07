@@ -23,7 +23,7 @@
 
 - 👨‍💻 My Portfolio : [https://developerhridu.github.io/](https://developerhridu.github.io/)
 - 📫 Contact Me: **mizanurrahmanhridu@gmail.com** or [![Skype](https://img.shields.io/badge/-Skype-white?style=flat-square&logo=skype)](https://join.skype.com/invite/ykZjQDHfPpdN)
-- 💬 Ask me about **Software Engineering, C#, TypeScript, JavaScript, React.Js, Angular, .NET**
+- 💬 Ask me about **Software Engineering, C#, .NET, TypeScript, JavaScript, Angular, **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
