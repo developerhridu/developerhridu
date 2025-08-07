@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/rjbabul/rjbabul/blob/main/Wave.gif" height="55px" width="55px">, I'm <b style="color:blue;">Mizanur Rahman Hridu</b></h1>
-<h3 align="center">I am working as a Software Engineer at TechnoNext Ltd, Ex bdjobs.com Ltd. with expertise in .NET Core & Angular.</h3>
+<h3 align="center">I am working as a Software Engineer at TechnoNext Software Ltd, Ex bdjobs.com Ltd. with expertise in .NET Core & Angular.</h3>
 <!-- <!-- <img
   align="right"
   alt="Coding"
@@ -27,14 +27,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/developerhridu" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="developerhridu"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://linkedin.com/in/developerhridu" target="blank"
     ><img
       align="center"
@@ -43,6 +35,7 @@
       height="30"
       width="40"
   /></a>
+
   <a href="https://fb.com/developerhridu" target="blank"
     ><img
       align="center"
@@ -59,6 +52,14 @@
       height="30"
       width="40"
   /></a>
+    <a href="https://twitter.com/developerhridu" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="developerhridu"
+      height="30"
+      width="40"
+  /></a>
   <!-- <a href="https://www.leetcode.com/mr_hridu" target="blank"
     ><img
       align="center"
@@ -71,22 +72,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-      alt="js"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-      alt="ts"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -103,6 +88,23 @@
       height="40"
     />
   </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+      alt="js"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+      alt="ts"
+      width="40"
+      height="40"
+    />
+  </a>
+
 <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" />
 </a> -->
@@ -150,14 +152,14 @@
       height="40"
     />
   </a> -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
